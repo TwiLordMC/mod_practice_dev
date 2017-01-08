@@ -1,0 +1,31 @@
+item.ruby.name=Ruby
+item.magnesium.name=Magnesium
+item.carbite.name=Carbite
+item.burple.name=Burple
+item.rubyPickaxe.name=Ruby Pickaxe
+item.rubyAxe.name=Ruby Axe
+item.rubySword.name=Ruby Sword
+item.rubyHoe.name=Ruby Hoe
+item.rubySpade.name=Ruby Shovel
+item.rubyHelmet.name=Ruby Helmet
+item.rubyChest.name=Ruby Chestplate
+item.rubyLegs.name=Ruby Leggings
+item.rubyBoots.name=Ruby Boots
+item.carbitePickaxe.name=Carbite Pickaxe
+item.carbiteAxe.name=Carbite Axe
+item.carbiteSword.name=Carbite Sword
+item.carbiteHoe.name=Carbite Hoe
+item.carbiteSpade.name=Carbite Shovel
+item.carbiteHelmet.name=Carbite Helmet
+item.carbiteChest.name=Carbite Chestplate
+item.carbiteLegs.name=Carbite Leggings
+item.carbiteBoots.name=Carbite Boots
+item.lightningSpawner.name=Lightning Rod
+
+tile.rubyOre.name=Ruby Ore
+tile.magenesiumOre.name=Magnesium Ore
+tile.carbiteOre.name=Carbite Ore
+
+itemGroup.blocksTab=Adventure Blocks
+itemGroup.itemsTab=Adventure Items
+itemGroup.toolsTab=Adventure Tools

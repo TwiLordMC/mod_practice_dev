@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "cdc:burple_stage0" },
+        "age=1": { "model": "cdc:burple_stage0" },
+        "age=2": { "model": "cdc:burple_stage1" },
+        "age=3": { "model": "cdc:burple_stage1" },
+        "age=4": { "model": "cdc:burple_stage2" },
+        "age=5": { "model": "cdc:burple_stage2" },
+        "age=6": { "model": "cdc:burple_stage2" },
+        "age=7": { "model": "cdc:burple_stage3" }
+    }
+}

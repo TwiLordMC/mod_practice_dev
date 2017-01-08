@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "cdc:blocks/burple_stage_1"
+    }
+}
